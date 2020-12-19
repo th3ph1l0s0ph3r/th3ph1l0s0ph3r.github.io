@@ -1,7 +1,7 @@
 ---
 layout: page
-title: projects
-permalink: /peojects/
+title: PROJECTS
+permalink: /projects/
 ---
 
 ...
